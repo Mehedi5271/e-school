@@ -1,0 +1,169 @@
+.container{
+    margin-bottom: 40px;
+}
+
+.logo{
+    width: 198.07px;
+    height: 59px;
+    margin-left: 212px;
+    margin-top: 30px;
+}
+#navbarNav{
+   
+    margin-right:212px ;
+    margin-top: 45px;
+}
+#sing-btn{
+    border: none;
+    background-color: #21B573;
+    border-radius: 33px;
+    color: white;
+    width: 104px;
+    height: 43px;
+    padding: 12px, 28px, 12px, 28px;
+    margin-bottom: 50px;
+    
+}
+#sing-btn:hover{
+    color: black;
+    background-color: rgb(231, 70, 70);
+}
+.header{
+   background-color:#f8f9fa;
+}
+.start-btn{
+    border: none;
+    background-color: #21B573;
+    border-radius: 33px;
+    color: white;
+    width: 104px;
+    height: 43px;
+    padding: 12px, 28px, 12px, 28px;
+    margin-bottom: 50px;
+    
+}
+.box-btn{
+    border: none;
+    background-color: #21B573;
+    border-radius: 33px;
+    color: white;
+    width: 104px;
+    height: 43px;
+    padding: 12px, 28px, 12px, 28px;
+    margin-bottom: 50px;
+}
+
+.box-btn:hover{
+    color: black;
+}
+#special{
+    color: #21B573;
+    
+    
+}
+
+.half{
+    padding-bottom: 20px!important;
+}
+
+.cat1 img {
+    width: 66px;
+    height: 85px;
+    
+    /* top: 672px;
+    left: 231px; */
+}
+.cat2 img {
+    width: 80px;
+    height: 83px;
+    /* top: 670px;
+    left: 535px; */
+}
+.cat3 img {
+    width: 66px;
+    height: 85px;
+    /* top: 670px;
+    left: 831px; */
+}
+.cat4 img {
+    width: 66px;
+    height: 85px;
+    /* top: 677px;
+    left: 1141px; */
+}
+
+.cat1{
+    
+    height: 270px;
+    width: 270px;
+    left: 135px;
+    top: 618px;
+    border-radius: 10px;
+    
+}
+.cat2{
+   
+    height: 270px;
+width: 270px;
+left: 135px;
+top: 618px;
+border-radius: 10px;
+
+}
+.cat3{
+    
+    height: 270px;
+width: 270px;
+left: 135px;
+top: 618px;
+border-radius: 10px;
+
+}
+.cat4{
+    
+    height: 270px;
+width: 270px;
+left: 135px;
+top: 618px;
+border-radius: 10px;
+
+}
+.card{
+    border: none;
+    box-shadow: 10px 10px 30px 20px  #cedfed;
+    margin-left: 55px;
+    
+}
+
+.man img{
+    height: 120px;
+width: 120px;
+left: 353px;
+top: 1787px;
+border-radius: 0px;
+
+}
+
+.footer{
+    height: 200px;
+width: 1440px;
+left: 0px;
+top: 2013px;
+border-radius: 0px;
+background-color: #282531;
+color: white;
+}
+
+.vogo{
+    font-size: 12px;
+}
+
+.chogo{
+    padding-top: 40px;
+}
+
+
+
+
+
+
